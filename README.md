@@ -145,10 +145,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/DiogoMiranda-dev/ignite-Chapter2-desafio-two.git
+$ git clone https://github.com/DiogoMiranda-dev/ignite-chapter2-desafio-two.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ignite-Chapter2-desafio-two
+$ cd ignite-chapter2-desafio-two
 ```
 
 ### 🎲 Rodando a Aplicação
