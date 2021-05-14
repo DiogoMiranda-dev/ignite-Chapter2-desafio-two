@@ -25,7 +25,8 @@ Um evento online e totalmente gratuito que o ajudará a dar o próximo passo na 
 
 ## :page_facing_up:🚀 Sobre o Projeto
 Nesse desafio, criei uma aplicação para treinar o que aprendi no ignite até agora. 
-\ Essa será uma aplicação já funcional onde o meu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
+<br>
+ Essa será uma aplicação já funcional onde o meu principal objetivo é realizar dois processos de migração: de Javascript para Typescript e de Class Components para Function Components.
 
 ## :computer: Demo
 
